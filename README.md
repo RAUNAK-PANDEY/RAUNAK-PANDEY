@@ -12,7 +12,7 @@
 
 Hi, I'm Raunak Pandey, A Computer Engineering Student from Mumbai.
 
-- 🔭 I’m currently working on **different android & web projects**
+- 🔭 I’m currently working on **different android & web projects.**
 - 🌱 I’m currently learning **Android , Web Development and Machine Learning**.
 
 **Languages and Tools:**  
