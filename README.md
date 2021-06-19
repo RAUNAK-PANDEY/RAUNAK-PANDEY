@@ -4,7 +4,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/raunak-pandey-8009a8196/" target="blank">
-  <img align="left" alt="Raunak Pandey | Linkedin" width="21px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+  <img align="left" alt="Raunak Pandey | Linkedin" width="50px" height="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
  </a>
 
 <br />
