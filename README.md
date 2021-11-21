@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/raunak-pandey-8009a8196/" target="blank">
   <img align="left" alt="Raunak Pandey | Linkedin" width="50px" height="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
  </a>
+  <a href="https://www.instagram.com/raunak__pandey/" target="blank">
+  <img align="left" alt="Raunak Pandey | Instagram" width="50px" height="50px" src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" />
+ </a>
 
 <br />
 <br />
@@ -15,7 +18,7 @@ Hi, I'm Raunak Pandey, A Computer Engineering Student from Mumbai.
 - 🔭 I’m currently working on **different Web projects.**
 - 🌱 I’m currently learning **Web Development and Machine Learning**.
 
-**Languages and Tools:**  
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a>
