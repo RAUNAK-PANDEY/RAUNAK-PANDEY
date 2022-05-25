@@ -16,7 +16,7 @@
 Hi, I'm Raunak Pandey, A Computer Engineering Student from Mumbai.
 
 - 🔭 I’m currently working on **different Web projects.**
-- 🌱 I’m currently learning **Web Development and Machine Learning**.
+- 🌱 I’m currently learning **Web3.**.
 
 ![Profile views ](https://gpvc.arturio.dev/RAUNAK-PANDEY)
 
