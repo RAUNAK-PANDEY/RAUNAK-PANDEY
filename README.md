@@ -7,7 +7,7 @@
   <img align="left" alt="Raunak Pandey | Linkedin" width="50px" height="50px" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
  </a>
   <a href="https://www.instagram.com/raunak__pandey/" target="blank">
-  <img align="left" alt="Raunak Pandey | Instagram" width="50px" height="50px" src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" />
+  <img align="left" alt="Raunak Pandey | Instagram" width="50px" height="50px" src="https://user-images.githubusercontent.com/65064180/180302986-f3258c1c-5215-4220-8d50-8a1c386a55c8.png" />
  </a>
 
 <br />
