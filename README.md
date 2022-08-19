@@ -33,7 +33,7 @@ Hi, I'm Raunak Pandey, A Final year Computer Engineering Student from Mumbai.
 
 
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=RAUNAK-PANDEY&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAUNAK-PANDEY&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=RAUNAK-PANDEY&show_icons=true&hide_border=true&theme=radical&count_private=true" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAUNAK-PANDEY&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
 |---|---|
 |<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAK-PANDEY&layout=compact&theme=dracula" />| 
 |<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAUNAK-PANDEY&theme=dracula" />|<br>
