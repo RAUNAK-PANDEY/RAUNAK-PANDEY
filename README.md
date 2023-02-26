@@ -16,7 +16,7 @@
 Hi, I'm Raunak Pandey, A Final year Computer Engineering Student from Mumbai.
 
 - 🔭 I’m currently working on **different Web projects.**
-- 🌱 I’m currently learning **Web3.**
+- 🌱 I’m currently learning **Blockchain Development.**
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/RAUNAK-PANDEY)
 ![Profile views ](https://gpvc.arturio.dev/RAUNAK-PANDEY)
