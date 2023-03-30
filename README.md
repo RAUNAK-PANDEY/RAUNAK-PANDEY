@@ -38,7 +38,7 @@ Hi, I'm Raunak Pandey, A Final year Computer Engineering Student from Mumbai.
 |<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUNAK-PANDEY&layout=compact&theme=dracula" />| 
 |<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAUNAK-PANDEY&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAUNAK-PANDEY&theme=dracula" />|<br>
 
-[![Raunak's github activity graph](https://activity-graph.herokuapp.com/graph?username=RAUNAK-PANDEY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Raunak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAUNAK-PANDEY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  
  
